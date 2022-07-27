@@ -16,4 +16,4 @@ Contacto: huesoseselg0doftwitch@gmail.com
 
 ![image](https://user-images.githubusercontent.com/100308833/181302001-ad95bf22-be0b-4980-ba44-37c28cb1f8d2.png)
 
-Contacto: 
+Contacto: luisct56@uniandes.edu.ec
