@@ -8,7 +8,8 @@ Proyecto de segundo semestre de la carrera de software, en el lenguaje de progra
 # Desarrolladores
 Paulo Yépez
 
-![WhatsApp Image 2022-05-16 at 7 24 46 AM](https://user-images.githubusercontent.com/100308833/181301163-6a42f0d3-d192-4006-ab52-4777ce43ff98.jpeg)
+![WhatsApp Image 2022-07-28 at 5 26 16 PM](https://user-images.githubusercontent.com/100308833/181649121-726c6b25-819e-4ce8-a0f0-dd380060963f.jpeg)
+
 
 Contacto: huesoseselg0doftwitch@gmail.com
 
