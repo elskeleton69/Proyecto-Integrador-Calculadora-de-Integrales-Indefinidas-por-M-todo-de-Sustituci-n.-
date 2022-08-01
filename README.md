@@ -19,5 +19,13 @@ Contacto: luisct56@uniandes.edu.ec
 
 # Investigadores 
 Ricardo Vaca
+
 ![BANNER RICARDO](https://user-images.githubusercontent.com/110338321/182045519-267cbc87-0c65-4c90-b18b-f0ac067b4321.png)
-Contacto: 
+
+Contacto: Ricardovm71@uniandes.edu.ec
+
+Jordan Enderica 
+
+![JORDAN BANNER](https://user-images.githubusercontent.com/110338321/182062381-849711e3-490b-41fa-bd6e-a68953e29dbd.png)
+
+Contacto: jordanej15@uniandes.edu.ec
