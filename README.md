@@ -22,7 +22,7 @@ Ricardo Vaca
 
 ![BANNER RICARDO](https://user-images.githubusercontent.com/110338321/182045519-267cbc87-0c65-4c90-b18b-f0ac067b4321.png)
 
-Contacto: Ricardovm71@uniandes.edu.ec
+Contacto: ricardovm71@uniandes.edu.ec
 
 Jordan Enderica 
 
