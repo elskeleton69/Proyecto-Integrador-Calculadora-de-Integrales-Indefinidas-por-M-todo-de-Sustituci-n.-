@@ -29,3 +29,9 @@ Jordan Enderica
 ![JORDAN BANNER](https://user-images.githubusercontent.com/110338321/182062381-849711e3-490b-41fa-bd6e-a68953e29dbd.png)
 
 Contacto: jordanej15@uniandes.edu.ec
+
+Miguel Chango 
+
+![banner miguel](https://user-images.githubusercontent.com/110338321/182517143-14649df6-8f0d-4c01-9848-96fc8110b9ec.png)
+
+Contacto: mchango51@gmail.com
