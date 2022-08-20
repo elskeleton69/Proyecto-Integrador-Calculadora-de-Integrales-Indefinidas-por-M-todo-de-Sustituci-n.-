@@ -7,7 +7,7 @@ Proyecto de segundo semestre de la carrera de software, en el lenguaje de progra
 # Icono del programa 
 ![icono_proyecto_integrador](https://user-images.githubusercontent.com/110338321/182045656-4a038d3a-603c-45c0-9afa-35437efadb52.png)
 # Desarrolladores
-Paulo Yépez
+Paulo Yépez(Spider-verse)
 
 ![BANNER FINAL pAULO](https://user-images.githubusercontent.com/110338321/182045497-ee52a961-0c2f-41d1-aea9-7b31ad4b7e7b.png)
 
