@@ -1,11 +1,15 @@
 # Proyecto-Integrador-Calculadora-de-Integrales-Indefinidas-por-Metodo-de-Sustitucion.-
 Proyecto de segundo semestre de la carrera de software, en el lenguaje de programación JAVA 
-![6745469e-2140-4e7c-a7b0-020349a7b6c7](https://user-images.githubusercontent.com/110338321/186042563-cf39a616-3e17-4ec6-b727-ac71c1bfd19b.jpg)
+![image](https://user-images.githubusercontent.com/110338321/186042638-66afa6cc-5345-495b-b85b-841bbca25cfc.png)
 # Interfaz de Usuario
-![image](https://user-images.githubusercontent.com/110338321/182045737-397e992a-a141-4f6e-9504-bdc63f3bc17b.png)
-![image](https://user-images.githubusercontent.com/110338321/182045759-fb53f7ec-dc7d-4717-95a9-623466df0c80.png)
+![image](https://user-images.githubusercontent.com/110338321/186042783-5229f5ab-f87d-4c49-9bff-fe98edf97f26.png)
+![image](https://user-images.githubusercontent.com/110338321/186042865-9df4ac14-1d82-449b-aee6-5d0fbc2fb37d.png)
+![image](https://user-images.githubusercontent.com/110338321/186042921-96723ebe-596d-4aa6-813e-95600166b664.png)
+![image](https://user-images.githubusercontent.com/110338321/186043006-1feea35c-a48f-4693-8a1f-9988fd2f7630.png)
 # Icono del programa 
 ![icono_proyecto_integrador](https://user-images.githubusercontent.com/110338321/182045656-4a038d3a-603c-45c0-9afa-35437efadb52.png)
+
+![1584914109](https://user-images.githubusercontent.com/110338321/186043186-a3ed16f5-4ab4-4833-983e-079d7626d514.gif)
 # Desarrolladores
 Paulo Yépez(Spider-verse)
 
