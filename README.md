@@ -1,6 +1,6 @@
 # Proyecto-Integrador-Calculadora-de-Integrales-Indefinidas-por-Metodo-de-Sustitucion.-
 Proyecto de segundo semestre de la carrera de software, en el lenguaje de programación JAVA 
-![logo PRIMERO](https://user-images.githubusercontent.com/110338321/186042401-9e78f139-4d06-4b6a-a103-61983268f7d3.png)
+![6745469e-2140-4e7c-a7b0-020349a7b6c7](https://user-images.githubusercontent.com/110338321/186042563-cf39a616-3e17-4ec6-b727-ac71c1bfd19b.jpg)
 # Interfaz de Usuario
 ![image](https://user-images.githubusercontent.com/110338321/182045737-397e992a-a141-4f6e-9504-bdc63f3bc17b.png)
 ![image](https://user-images.githubusercontent.com/110338321/182045759-fb53f7ec-dc7d-4717-95a9-623466df0c80.png)
