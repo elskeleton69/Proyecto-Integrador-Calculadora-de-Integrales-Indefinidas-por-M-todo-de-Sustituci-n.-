@@ -10,8 +10,8 @@ Proyecto de segundo semestre de la carrera de software, en el lenguaje de progra
 ![icono_proyecto_integrador](https://user-images.githubusercontent.com/110338321/182045656-4a038d3a-603c-45c0-9afa-35437efadb52.png)
 
 ![1584914109](https://user-images.githubusercontent.com/110338321/186043186-a3ed16f5-4ab4-4833-983e-079d7626d514.gif)
-# Desarrolladores
-Paulo Yépez(Spider-verse)
+# Integrantes
+Paulo Yépez
 
 ![BANNER FINAL pAULO](https://user-images.githubusercontent.com/110338321/182045497-ee52a961-0c2f-41d1-aea9-7b31ad4b7e7b.png)
 
@@ -21,7 +21,6 @@ Luis Cañar
 ![BANNER FINAL Sebass](https://user-images.githubusercontent.com/110338321/182045462-d7e7ddb7-c96b-48cc-a7f3-dc969bc0ed8c.png)
 Contacto: luisct56@uniandes.edu.ec
 
-# Investigadores 
 Ricardo Vaca
 
 ![BANNER RICARDO](https://user-images.githubusercontent.com/110338321/182045519-267cbc87-0c65-4c90-b18b-f0ac067b4321.png)
