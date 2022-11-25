@@ -21,20 +21,4 @@ Luis Cañar
 ![BANNER FINAL Sebass](https://user-images.githubusercontent.com/110338321/182045462-d7e7ddb7-c96b-48cc-a7f3-dc969bc0ed8c.png)
 Contacto: luisct56@uniandes.edu.ec
 
-Ricardo Vaca
 
-![BANNER RICARDO](https://user-images.githubusercontent.com/110338321/182045519-267cbc87-0c65-4c90-b18b-f0ac067b4321.png)
-
-Contacto: ricardovm71@uniandes.edu.ec
-
-Jordan Enderica 
-
-![JORDAN BANNER](https://user-images.githubusercontent.com/110338321/182062381-849711e3-490b-41fa-bd6e-a68953e29dbd.png)
-
-Contacto: jordanej15@uniandes.edu.ec
-
-Miguel Changó 
-
-![banner miguel](https://user-images.githubusercontent.com/110338321/182517143-14649df6-8f0d-4c01-9848-96fc8110b9ec.png)
-
-Contacto: mchango51@gmail.com
