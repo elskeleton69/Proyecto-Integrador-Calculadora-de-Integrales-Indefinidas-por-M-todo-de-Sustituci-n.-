@@ -21,4 +21,7 @@ Luis Cañar
 ![BANNER FINAL Sebass](https://user-images.githubusercontent.com/110338321/182045462-d7e7ddb7-c96b-48cc-a7f3-dc969bc0ed8c.png)
 Contacto: luisct56@uniandes.edu.ec
 
+![Uploading LOGO FINAL sin fondo.svg…]()
 
+![logo byteburst](https://github.com/elskeleton69/Proyecto-Integrador-Calculadora-de-Integrales-Indefinidas-por-M-todo-de-Sustituci-n.-/assets/110338321/30f101f6-a3d3-4e27-a900-b333361f7388)
+![logo gym 2](https://github.com/elskeleton69/Proyecto-Integrador-Calculadora-de-Integrales-Indefinidas-por-M-todo-de-Sustituci-n.-/assets/110338321/eba50820-5486-4905-acd9-08e1e262d31d)
