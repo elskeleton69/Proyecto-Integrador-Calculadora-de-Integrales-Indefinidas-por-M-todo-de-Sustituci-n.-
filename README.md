@@ -27,4 +27,6 @@ Contacto: luisct56@uniandes.edu.ec
 ![logo gym 2](https://github.com/elskeleton69/Proyecto-Integrador-Calculadora-de-Integrales-Indefinidas-por-M-todo-de-Sustituci-n.-/assets/110338321/eba50820-5486-4905-acd9-08e1e262d31d)
 
 ![image](https://github.com/user-attachments/assets/7bc89fdd-8fd8-456f-804b-9e0e635b438b)
+![Group 137](https://github.com/user-attachments/assets/323a6ace-f9dc-49dd-8044-a29abca435d3)
+
 
